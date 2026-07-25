@@ -79,7 +79,6 @@ A full-stack e-commerce platform built with a focus on real-world business workf
 />
 
 </div>
----
 
 ## 🤝 Connect With Me
 
@@ -100,7 +99,7 @@ A full-stack e-commerce platform built with a focus on real-world business workf
 </a>
 
 </div>
----
+
 <br>
 
 <div align="center">
