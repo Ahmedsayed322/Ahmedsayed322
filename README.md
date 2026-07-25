@@ -168,7 +168,7 @@ A full-stack e-commerce platform built with a focus on real-world business workf
 
 <div align="center">
 
-<a href="YOUR_ECOMMERCE_REPOSITORY_URL">
+<a href="https://github.com/Ahmedsayed322/E-Commerce-Backend">
   <img
     src="https://img.shields.io/badge/View%20Project-0EA5E9?style=for-the-badge&logo=github&logoColor=white"
     alt="View E-Commerce Project"
@@ -177,40 +177,20 @@ A full-stack e-commerce platform built with a focus on real-world business workf
 
 </div>
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Ahmedsayed322&show_icons=true&theme=tokyonight&hide_border=true"
-  alt="Ahmed's GitHub Stats"
-/>
-
-<br><br>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedsayed322&layout=compact&theme=tokyonight&hide_border=true"
-  alt="Ahmed's Top Languages"
-/>
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/ahmed-sayed-589477327/">
   <img
     src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ahmedsayed0575@gmail.com">
   <img
     src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Email"
