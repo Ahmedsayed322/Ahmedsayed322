@@ -105,19 +105,18 @@ A backend payment workflow with secure webhook handling.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahmedsayed322&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ahmedsayed322&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedsayed322&layout=compact&hide_border=true&theme=tokyonight" />
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ahmedsayed322&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
 ---
 
 ## 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ahmedsayed322/Ahmedsayed322/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmedsayed322&theme=tokyo-night&hide_border=true" />
 
 </div>
 
