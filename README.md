@@ -29,7 +29,7 @@ Currently, I'm improving my skills in **System Design, scalable architectures, b
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,js,mongodb,mysql,redis,docker,git,github,postman,linux" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,js,mongodb,mysql,redis,docker,git,github,postman" alt="Tech Stack" />
 
 </div>
 
