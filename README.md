@@ -56,7 +56,6 @@ A full-stack e-commerce platform built with a focus on real-world business workf
 
 `Node.js` · `NestJS` · `TypeScript` · `MongoDB` · `Redis` · `Docker`
 
-> Check out the project in my pinned repositories below.
 
 ---
 
@@ -70,35 +69,16 @@ A full-stack e-commerce platform built with a focus on real-world business workf
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Ahmedsayed322&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  alt="Ahmed's GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedsayed322&layout=compact&theme=tokyonight&hide_border=true"
-  alt="Ahmed's Top Languages"
-/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmedsayed322&theme=tokyo-night&hide_border=true"
-  alt="Ahmed's Contribution Activity"
+  alt="Ahmed's GitHub Activity"
 />
 
 </div>
-
 ---
 
 ## 🤝 Connect With Me
