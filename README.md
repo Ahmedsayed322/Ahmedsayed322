@@ -5,7 +5,10 @@
 ### Backend Developer | Node.js | NestJS | TypeScript
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Backend+Developer+%F0%9F%92%BB;Building+RESTful+APIs+%F0%9F%9A%80;Node.js+%7C+NestJS+%7C+TypeScript;Learning+System+Design+%26+Scalable+Architecture" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Backend+Developer+%F0%9F%92%BB;Building+RESTful+APIs+%F0%9F%9A%80;Node.js+%7C+NestJS+%7C+TypeScript;Learning+System+Design+%26+Scalable+Architecture"
+    alt="Typing SVG"
+  />
 </a>
 
 </div>
@@ -14,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Backend Developer** focused on building reliable and maintainable backend systems.
+I'm a Backend Developer focused on building reliable and maintainable backend systems.
 
 I enjoy working with **Node.js, NestJS, and TypeScript**, building RESTful APIs, designing databases, and integrating third-party services.
 
@@ -26,78 +29,44 @@ Currently, I'm improving my skills in **System Design, scalable architectures, b
 
 <div align="center">
 
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,js" />
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,js,mongodb,mysql,redis,docker,git,github,postman,linux" alt="Tech Stack" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 ### 🛒 E-Commerce Platform
 
-A full-stack e-commerce application focused on real-world business workflows and backend architecture.
+A full-stack e-commerce platform built with a focus on real-world business workflows and scalable backend architecture.
 
-**What I worked with:**
+**Key Features:**
 
-* Authentication & Authorization
-* Product & Order Management
-* Payment Integration
-* Redis
-* Database Design
-* RESTful APIs
-* Docker
+- 🔐 Authentication & Authorization
+- 🛍️ Product & Order Management
+- 💳 Payment Integration
+- 📦 Order Lifecycle Management
+- ⚡ Redis Caching
+- 🗄️ Database Design
+- 🔄 Payment Webhooks
+- 🐳 Docker
 
----
+**Tech Stack:**
 
-### 💬 Social Media API
+`Node.js` · `NestJS` · `TypeScript` · `MongoDB` · `Redis` · `Docker`
 
-A RESTful backend for a social media application.
-
-**Features include:**
-
-* JWT Authentication
-* Email Verification
-* Password Recovery
-* Refresh Tokens
-* Redis Integration
-* User Management
-* RESTful APIs
-
----
-
-### 💳 Payment Integration
-
-A backend payment workflow with secure webhook handling.
-
-**Features include:**
-
-* Payment Processing
-* Webhook Integration
-* HMAC Verification
-* Payment Status Management
-* Refund Handling
-* Secure Transaction Flow
+> Check out the project in my pinned repositories below.
 
 ---
 
 ## 📚 Currently Learning
 
-* 🏗️ System Design
-* ⚡ Scalable Backend Architecture
-* 🔐 Backend Security
-* ☁️ Cloud & DevOps
-* 🤖 AI & Backend Automation
+- 🏗️ System Design
+- ⚡ Scalable Backend Architecture
+- 🔐 Backend Security
+- ☁️ Cloud & DevOps
+- 🤖 AI & Backend Automation
 
 ---
 
@@ -105,18 +74,28 @@ A backend payment workflow with secure webhook handling.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ahmedsayed322&show_icons=true&theme=tokyonight&hide_border=true)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Ahmedsayed322&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  alt="Ahmed's GitHub Stats"
+/>
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ahmedsayed322&layout=compact&theme=tokyonight&hide_border=true)
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedsayed322&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Ahmed's Top Languages"
+/>
 
 </div>
+
 ---
 
-## 🐍 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmedsayed322&theme=tokyo-night&hide_border=true" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmedsayed322&theme=tokyo-night&hide_border=true"
+  alt="Ahmed's Contribution Activity"
+/>
 
 </div>
 
@@ -126,12 +105,18 @@ A backend payment workflow with secure webhook handling.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ahmed-sayed-589477327/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ahmed-sayed-589477327/)">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="mailto:ahmedsayed0575@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
 
 </div>
@@ -140,6 +125,6 @@ A backend payment workflow with secure webhook handling.
 
 <div align="center">
 
-### Thanks for visiting my profile! 🚀
+Thanks for visiting my profile! 🚀
 
 </div>
