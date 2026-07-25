@@ -106,11 +106,6 @@ GitHub
 Postman
 </td>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=linux" width="50" />
-<br>
-Linux
-</td>
 
 </tr>
 </table>
